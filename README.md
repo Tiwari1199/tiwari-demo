@@ -1,3 +1,4 @@
 # tiwari-demo
-This is my first Git Repository
-Author-Vishal
+This is my first Git Repository.
+<br>
+Author-Vishal.
